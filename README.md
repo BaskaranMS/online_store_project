@@ -20,9 +20,6 @@ This solution is ideal for growing grocery stores looking for an integrated syst
 
 - **Signup & Login**  
   ✨ Customers can **sign up** and **log in** to their accounts securely with **JWT-based authentication**.
-  ![User Management](assests/screenshots/1.png)
-  ![User Management](assests/screenshots/2.png)
-  ![User Management](assests/screenshots/3.png)
 
 - **Browse Products**  
   🛒 Customers can view the complete catalog of available grocery items, categorized by type, availability, and more.

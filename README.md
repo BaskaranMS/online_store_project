@@ -123,4 +123,32 @@ For more details, contact us via email: [webgi215.official@gmail.com](mailto:web
 
 Visit our website: [webdevglobalinnovation.vercel.app](https://webdevglobalinnovation.vercel.app)
 
+---
 
+## 💻 SCREENSHOTS
+  ![User Management](assests/screenshots/1.png)
+  ![User Management](assests/screenshots/2.png)
+  ![User Management](assests/screenshots/3.png)
+  ![User Management](assests/screenshots/4.png)
+  ![User Management](assests/screenshots/5.png)
+  ![User Management](assests/screenshots/6.png)
+  ![User Management](assests/screenshots/7.png)
+  ![User Management](assests/screenshots/8.png)
+  ![User Management](assests/screenshots/9.png)
+  ![User Management](assests/screenshots/10.png)
+  ![User Management](assests/screenshots/11.png)
+  ![User Management](assests/screenshots/12.png)
+  ![User Management](assests/screenshots/13.png)
+  ![User Management](assests/screenshots/14.png)
+  ![User Management](assests/screenshots/15.png)
+  ![User Management](assests/screenshots/16.png)
+  ![User Management](assests/screenshots/17.png)
+  ![User Management](assests/screenshots/18.png)
+  ![User Management](assests/screenshots/19.png)
+  ![User Management](assests/screenshots/20.png)
+  ![User Management](assests/screenshots/21.png)
+  ![User Management](assests/screenshots/22.png)
+  ![User Management](assests/screenshots/23.png)
+  ![User Management](assests/screenshots/24.png)
+  ![User Management](assests/screenshots/25.png) 
+---

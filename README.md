@@ -1,8 +1,8 @@
 # Grocery Store Management System
 
 **Location:** Tamil Nadu, India  
-**Email:** [webgi215.official@gmail.com](mailto:webgi215.official@gmail.com)  
-**Website:** [webdevglobalinnovation.vercel.app](https://webdevglobalinnovation.vercel.app)
+**Email:** [official.ms.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com)  
+
 
 ---
 
@@ -116,9 +116,7 @@ The **Grocery Store Management System** is an all-in-one solution that combines 
 
 This system is ideal for grocery stores seeking to improve their day-to-day operations, increase sales, and provide excellent customer service.
 
-For more details, contact us via email: [webgi215.official@gmail.com](mailto:webgi215.official@gmail.com).
-
-Visit our website: [webdevglobalinnovation.vercel.app](https://webdevglobalinnovation.vercel.app)
+For more details, contact me via email: [official.ma.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com).
 
 ---
 

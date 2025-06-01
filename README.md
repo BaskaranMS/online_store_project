@@ -1,8 +1,36 @@
 # Grocery Store Management System
 
 **Location:** Tamil Nadu, India  
-**Email:** [official.ms.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com)  
+**Email:** [official.ms.baskaran@gmail.com](mailto:official.ms.baskaran@gmail.com)
 
+---
+
+## 🔗 Project Links
+
+- 🚀 **Live Demo**: [Click here to view](https://online-store-ms.vercel.app/)
+- 💻 **Frontend Repository**: [GitHub - Frontend](https://github.com/BaskaranMS/online_store_demo_frontend)
+- 🛠️ **Backend Repository**: [GitHub - Backend](https://github.com/BaskaranMS/online_store_demo_backend)
+
+---
+
+## 🔐 Demo Login Credentials
+
+> Use the following credentials to log in and explore the platform.
+
+### 👑 Admin Login
+
+- **Username:** admin
+- **Password:** adminadmin123
+
+### 🧑‍🏫 User Login
+
+- **Username:** baskaran
+- **Password:** 9342570232
+
+### 🧑‍🎓 Stores Incharge Login
+
+- **Username:** 2003
+- **Password:** 9342570232
 
 ---
 
@@ -71,22 +99,26 @@ This solution is ideal for growing grocery stores looking for an integrated syst
 
 ## 💻 Technology Stack
 
-- **Frontend**:  
-  - 🖥️ **React.js**  
-  - 💅 **Bootstrap**  
+- **Frontend**:
+
+  - 🖥️ **React.js**
+  - 💅 **Bootstrap**
   - ⚡ **Font Awesome** icons
 
-- **Backend**:  
-  - 🚀 **Node.js**  
+- **Backend**:
+
+  - 🚀 **Node.js**
   - 🛠️ **Express.js**
 
-- **Database**:  
+- **Database**:
+
   - 🗃️ **MongoDB**
 
-- **Authentication**:  
+- **Authentication**:
+
   - 🔑 **JWT** (JSON Web Tokens)
 
-- **Email Notifications**:  
+- **Email Notifications**:
   - 📧 **Nodemailer**
 
 ---
@@ -121,29 +153,31 @@ For more details, contact me via email: [official.ms.baskaran@gmail.com](mailto:
 ---
 
 ## 💻 SCREENSHOTS
-  ![User Management](assests/screenshots/1.png)
-  ![User Management](assests/screenshots/2.png)
-  ![User Management](assests/screenshots/3.png)
-  ![User Management](assests/screenshots/4.png)
-  ![User Management](assests/screenshots/5.png)
-  ![User Management](assests/screenshots/6.png)
-  ![User Management](assests/screenshots/7.png)
-  ![User Management](assests/screenshots/8.png)
-  ![User Management](assests/screenshots/9.png)
-  ![User Management](assests/screenshots/10.png)
-  ![User Management](assests/screenshots/11.png)
-  ![User Management](assests/screenshots/12.png)
-  ![User Management](assests/screenshots/13.png)
-  ![User Management](assests/screenshots/14.png)
-  ![User Management](assests/screenshots/15.png)
-  ![User Management](assests/screenshots/16.png)
-  ![User Management](assests/screenshots/17.png)
-  ![User Management](assests/screenshots/18.png)
-  ![User Management](assests/screenshots/19.png)
-  ![User Management](assests/screenshots/20.png)
-  ![User Management](assests/screenshots/21.png)
-  ![User Management](assests/screenshots/22.png)
-  ![User Management](assests/screenshots/23.png)
-  ![User Management](assests/screenshots/24.png)
-  ![User Management](assests/screenshots/25.png) 
+
+![User Management](assests/screenshots/1.png)
+![User Management](assests/screenshots/2.png)
+![User Management](assests/screenshots/3.png)
+![User Management](assests/screenshots/4.png)
+![User Management](assests/screenshots/5.png)
+![User Management](assests/screenshots/6.png)
+![User Management](assests/screenshots/7.png)
+![User Management](assests/screenshots/8.png)
+![User Management](assests/screenshots/9.png)
+![User Management](assests/screenshots/10.png)
+![User Management](assests/screenshots/11.png)
+![User Management](assests/screenshots/12.png)
+![User Management](assests/screenshots/13.png)
+![User Management](assests/screenshots/14.png)
+![User Management](assests/screenshots/15.png)
+![User Management](assests/screenshots/16.png)
+![User Management](assests/screenshots/17.png)
+![User Management](assests/screenshots/18.png)
+![User Management](assests/screenshots/19.png)
+![User Management](assests/screenshots/20.png)
+![User Management](assests/screenshots/21.png)
+![User Management](assests/screenshots/22.png)
+![User Management](assests/screenshots/23.png)
+![User Management](assests/screenshots/24.png)
+![User Management](assests/screenshots/25.png)
+
 ---
